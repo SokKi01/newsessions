@@ -1,7 +1,7 @@
 api_id = ""
 api_hash = ""
 
-passw = ""
+passw = "" #если нету облачного пароля то уберите ковычки и поставить None
 
 USE_PROXY = True
 
